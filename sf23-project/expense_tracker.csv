@@ -1,0 +1,127 @@
+Date,Amount,Category,Expense Type,Mode of Payment
+2022-06-01,8803,Food,Lend,Credit Card
+2022-06-01,2630,Education,Family Expense, Online Payment
+2022-06-01,4408,Transportation,Bill Sharing, Online Payment
+2022-06-01,2754,Education,Bill Sharing,Cash
+2022-06-02,6409,Miscellaneous,Lend,Cash
+2022-06-02,9751,Transportation,Family Expense, Online Payment
+2022-06-02,5023,Utility,Personal Use,Credit Card
+2022-06-02,7907,Miscellaneous,Family Expense, Online Payment
+2022-06-03,1287,Transportation,Family Expense, Online Payment
+2022-06-03,1586,Education,Family Expense,Credit Card
+2022-06-05,8662,Transportation,Lend,Credit Card
+2022-06-05,845,Education,Family Expense,Cash
+2022-06-05,1287,Education,Bill Sharing,Cash
+2022-06-05,3887,Health,Lend,Cash
+2022-06-05,2338,Transportation,Bill Sharing,Cash
+2022-06-06,865,Food,Personal Use, Online Payment
+2022-06-06,5122,Miscellaneous,Lend, Online Payment
+2022-06-06,450,Miscellaneous,Family Expense, Online Payment
+2022-06-06,7549,Education,Bill Sharing, Online Payment
+2022-06-07,5616,Recreation,Family Expense,Credit Card
+2022-06-07,2832,Utility,Family Expense,Cash
+2022-06-07,2638,Electronics,Personal Use,Credit Card
+2022-06-07,7748,Electronics,Bill Sharing,Cash
+2022-06-09,6283,Food,Family Expense,Cash
+2022-06-09,8473,Education,Family Expense,Cash
+2022-06-09,6462,Electronics,Lend,Cash
+2022-06-09,8880,Transportation,Bill Sharing, Online Payment
+2022-06-11,8431,Education,Personal Use, Online Payment
+2022-06-11,750,Miscellaneous,Personal Use,Cash
+2022-06-11,9602,Transportation,Bill Sharing, Online Payment
+2022-06-11,1685,Transportation,Lend,Cash
+2022-06-11,8686,Electronics,Personal Use,Cash
+2022-06-12,1451,Food,Bill Sharing,Cash
+2022-06-12,7185,Transportation,Lend,Cash
+2022-06-12,3576,Food,Personal Use, Online Payment
+2022-06-13,4945,Recreation,Personal Use,Credit Card
+2022-06-13,8972,Transportation,Bill Sharing,Cash
+2022-06-13,7045,Health,Family Expense,Credit Card
+2022-06-13,8100,Clothing,Personal Use, Online Payment
+2022-06-13,6566,Utility,Personal Use, Online Payment
+2022-06-14,9807,Transportation,Lend,Cash
+2022-06-14,4026,Health,Family Expense, Online Payment
+2022-06-14,535,Utility,Bill Sharing, Online Payment
+2022-06-16,203,Education,Personal Use, Online Payment
+2022-06-16,3181,Clothing,Bill Sharing,Credit Card
+2022-06-16,5155,Miscellaneous,Family Expense,Cash
+2022-06-17,8504,Utility,Bill Sharing,Cash
+2022-06-17,9543,Utility,Lend, Online Payment
+2022-06-18,4369,Miscellaneous,Family Expense, Online Payment
+2022-06-18,5650,Electronics,Lend, Online Payment
+2022-06-18,1275,Health,Bill Sharing, Online Payment
+2022-06-18,8285,Food,Lend, Online Payment
+2022-06-18,4492,Transportation,Family Expense, Online Payment
+2022-06-20,5161,Food,Family Expense,Cash
+2022-06-20,6885,Education,Lend,Credit Card
+2022-06-20,6494,Health,Family Expense, Online Payment
+2022-06-20,6486,Clothing,Family Expense,Credit Card
+2022-06-20,1220,Recreation,Personal Use,Cash
+2022-06-21,2883,Education,Family Expense,Cash
+2022-06-21,2286,Education,Bill Sharing, Online Payment
+2022-06-21,4114,Utility,Lend, Online Payment
+2022-06-21,4903,Recreation,Personal Use,Credit Card
+2022-06-21,5672,Recreation,Personal Use,Cash
+2022-06-22,1109,Utility,Personal Use,Credit Card
+2022-06-22,788,Clothing,Lend, Online Payment
+2022-06-22,8086,Utility,Personal Use,Cash
+2022-06-24,7046,Utility,Family Expense,Credit Card
+2022-06-24,2508,Utility,Personal Use,Credit Card
+2022-06-25,8258,Education,Personal Use, Online Payment
+2022-06-25,1537,Clothing,Personal Use,Credit Card
+2022-06-27,2680,Recreation,Family Expense,Cash
+2022-06-27,5979,Education,Personal Use, Online Payment
+2022-06-27,6936,Food,Personal Use,Cash
+2022-06-27,776,Transportation,Bill Sharing,Credit Card
+2022-06-28,7839,Health,Bill Sharing,Cash
+2022-06-28,6535,Utility,Lend, Online Payment
+2022-06-28,7718,Transportation,Personal Use,Credit Card
+2022-06-28,970,Utility,Personal Use,Credit Card
+2022-06-28,1862,Clothing,Family Expense,Cash
+2022-06-29,7915,Clothing,Family Expense,Cash
+2022-06-29,2680,Food,Personal Use,Cash
+2022-07-01,531,Health,Family Expense,Credit Card
+2022-07-01,731,Food,Lend, Online Payment
+2022-07-01,2374,Utility,Lend,Credit Card
+2022-07-01,5506,Miscellaneous,Bill Sharing,Cash
+2022-07-03,1925,Recreation,Family Expense,Cash
+2022-07-03,9197,Clothing,Bill Sharing,Credit Card
+2022-07-03,5879,Electronics,Family Expense,Credit Card
+2022-07-03,3394,Transportation,Family Expense, Online Payment
+2022-07-03,6481,Food,Personal Use,Credit Card
+2022-07-04,8233,Clothing,Bill Sharing, Online Payment
+2022-07-04,2018,Health,Family Expense,Credit Card
+2022-07-04,1185,Miscellaneous,Bill Sharing,Credit Card
+2022-07-05,7854,Transportation,Lend, Online Payment
+2022-07-05,5735,Education,Personal Use,Credit Card
+2022-07-05,2236,Clothing,Personal Use,Credit Card
+2022-07-05,5055,Recreation,Family Expense,Credit Card
+2022-07-05,2282,Recreation,Personal Use,Cash
+2022-07-06,6551,Miscellaneous,Lend,Credit Card
+2022-07-06,5013,Electronics,Family Expense,Cash
+2022-07-06,2191,Utility,Personal Use, Online Payment
+2022-07-06,8703,Utility,Lend,Cash
+2022-07-07,3298,Health,Family Expense, Online Payment
+2022-07-07,825,Clothing,Bill Sharing, Online Payment
+2022-07-07,6622,Recreation,Personal Use,Cash
+2022-07-07,7483,Transportation,Bill Sharing, Online Payment
+2022-07-08,6287,Education,Personal Use,Credit Card
+2022-07-08,3320,Food,Personal Use,Credit Card
+2022-07-08,7662,Miscellaneous,Family Expense,Credit Card
+2022-07-08,6041,Utility,Bill Sharing,Credit Card
+2022-07-08,1434,Transportation,Family Expense,Cash
+2022-07-10,931,Health,Bill Sharing,Credit Card
+2022-07-10,855,Education,Family Expense,Cash
+2022-07-11,8165,Transportation,Personal Use, Online Payment
+2022-07-11,4384,Utility,Bill Sharing,Cash
+2022-07-11,636,Utility,Lend,Credit Card
+2022-07-11,8720,Education,Personal Use,Cash
+2022-07-11,9526,Clothing,Personal Use,Cash
+2022-07-12,9568,Utility,Lend,Credit Card
+2022-07-12,3738,Miscellaneous,Bill Sharing,Cash
+2022-07-13,3962,Utility,Bill Sharing, Online Payment
+2022-07-13,1731,Recreation,Lend, Online Payment
+2022-07-14,8431,Utility,Family Expense,Credit Card
+2022-07-14,8780,Utility,Bill Sharing, Online Payment
+2022-07-14,7083,Education,Personal Use,Credit Card
+2022-07-14,8508,Electronics,Family Expense,Cash

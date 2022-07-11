@@ -1,0 +1,18 @@
+version: "3.9"
+
+services:
+  web:
+    build: ./
+    working_dir: /usr/src/app/sf23-project
+    command: gunicorn home.wsgi:application --bind 0.0.0.0:8000
+    volumes:
+      - ./sf23-project:/usr/src/app/sf23-project/sf23-project
+    expose:
+      - 8000
+
+  nginx:
+    build: ./nginx
+    ports:
+      - 80:80
+    depends_on:
+      - web
